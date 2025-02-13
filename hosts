@@ -1,0 +1,89 @@
+# USA corporations boycott hostlist AKA USA Blackout
+
+# Feel free to contribute by adding more urls, quick mockup for now but it should block their main pages for Canada and some ads
+# Please flag and any canadian corporation from the list
+
+# Also useful to know which corporations to avoid to buy from.
+
+# How to use : put the content in this file
+# Windows – “C:\Windows\System32\drivers\etc\hosts”
+# Linux – “/etc/hosts”
+# Mac OS X – “/private/etc/hosts”
+
+# Note : put a # in front on the line of a corporation you need for updates or else to unban it
+
+#<localhost>
+127.0.0.1	localhost
+127.0.0.1	localhost.localdomain
+255.255.255.255	broadcasthost
+::1		localhost
+127.0.0.1	local
+::1		ip6-localhost ip6-loopback
+fe00::0		ip6-localnet
+ff00::0		ip6-mcastprefix
+ff02::1		ip6-allnodes
+ff02::2		ip6-allrouters
+ff02::3		ip6-allhosts
+#fe80::1%lo0	localhost
+#</localhost>
+
+# Boycotted websites
+127.0.0.1 https://www.walmart.ca/
+127.0.0.1 https://www.youtube.com/
+127.0.0.1 https://www.google.ca/
+127.0.0.1 https://www.costco.ca/
+127.0.0.1 https://www.microsoft.com/
+127.0.0.1 https://github.com/
+127.0.0.1 https://www.linkedin.com
+127.0.0.1 https://www.skype.com/
+127.0.0.1 https://fr.ford.ca/
+127.0.0.1 https://www.gm.ca/
+127.0.0.1 https://www.homedepot.ca/
+127.0.0.1 https://www.facebook.com/
+127.0.0.1 https://www.instagram.com/
+127.0.0.1 https://www.messenger.com/
+127.0.0.1 https://www.facebook.com/messages/
+127.0.0.1 https://www.threads.net/
+127.0.0.1 https://www.whatsapp.com/
+127.0.0.1 https://www.tesla.com/
+127.0.0.1 https://www.jnj.com/
+127.0.0.1 https://www.pepsico.ca/
+127.0.0.1 https://www.ups.com/
+127.0.0.1 https://www.fedex.com/
+127.0.0.1 https://thewaltdisneycompany.com/
+127.0.0.1 https://www.dell.com/
+127.0.0.1 https://www.pg.ca/
+127.0.0.1 https://ca.braun.com/
+127.0.0.1 https://www.boeing.ca/
+127.0.0.1 https://www.ge.com/
+127.0.0.1 https://www.americanexpress.com/
+127.0.0.1 https://www.caterpillar.com/
+127.0.0.1 https://www.ibm.com/
+127.0.0.1 https://www.redhat.com/
+127.0.0.1 https://www.deere.ca/
+127.0.0.1 https://www.nvidia.com/
+127.0.0.1 https://www.pfizer.com/
+127.0.0.1 www.delta.com/
+127.0.0.1 https://www.tdsynnex.com/
+127.0.0.1 https://www.sears.com/
+127.0.0.1 https://www.cisco.com/
+127.0.0.1 https://www.intel.com/
+127.0.0.1 https://www.hp.com/
+127.0.0.1 https://www.nike.com/
+127.0.0.1 https://converse.ca/
+127.0.0.1 https://www.oracle.com/
+127.0.0.1 https://www.capitalone.ca/
+127.0.0.1 https://www.coca-colacompany.com/
+127.0.0.1 https://www.bestbuy.ca/
+127.0.0.1 https://www.amazon.ca/
+127.0.0.1 https://www.amazon.com/gp/mas/get/android/
+127.0.0.1 https://www.amazon.com/luna/
+127.0.0.1 https://music.amazon.com/
+127.0.0.1 https://pay.amazon.com/
+127.0.0.1 https://www.primevideo.com/
+127.0.0.1 https://aws.amazon.com/
+127.0.0.1 https://ring.com/
+127.0.0.1 https://www.twitch.tv/
+127.0.0.1 https://www.apple.com/
+127.0.0.1 https://www.beatsbydre.com/
+127.0.0.1 https://www.globalstar.com/
