@@ -28,6 +28,7 @@ ff02::3		ip6-allhosts
 #</localhost>
 
 # Boycotted websites
+127.0.0.1 https://www.whitehouse.gov
 127.0.0.1 www.walmart.ca
 127.0.0.1 www.youtube.com
 127.0.0.1 www.google.ca
