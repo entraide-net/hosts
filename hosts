@@ -29,7 +29,7 @@ ff02::3		ip6-allhosts
 
 # Boycotted websites
 127.0.0.1 https://www.whitehouse.gov
-127.0.0.1 www.walmart.ca
+127.0.0.1 www.walmart.ca # Pour avoir Tigre géant remplacez 127.0.0.1 par www.gianttiger.com
 127.0.0.1 www.youtube.com
 127.0.0.1 www.google.ca
 127.0.0.1 www.costco.ca
