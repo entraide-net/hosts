@@ -1,16 +1,8 @@
-# USA corporations boycott hostlist AKA USA Blackout
-
-# Feel free to contribute by adding more urls, quick mockup for now but it should block their main pages for Canada and some ads
-# Please flag and any canadian corporation from the list
-
-# Also useful to know which corporations to avoid to buy from.
-
-# How to use : put the content in this file
 # Windows – “C:\Windows\System32\drivers\etc\hosts”
-# Linux – “/etc/hosts”
 # Mac OS X – “/private/etc/hosts”
+# Linux – “/etc/hosts”
 
-# Note : put a # in front on the line of a corporation you need for updates or else to unban it
+# Unban by putting a # in front of the line
 
 #<localhost>
 127.0.0.1	localhost
@@ -29,7 +21,7 @@ ff02::3		ip6-allhosts
 
 # Boycotted websites
 127.0.0.1 https://www.whitehouse.gov
-127.0.0.1 www.walmart.ca # Redirect to Geant Tiger by replacing 127.0.0.1 by www.gianttiger.com
+127.0.0.1 www.walmart.ca
 127.0.0.1 www.youtube.com
 127.0.0.1 www.google.ca
 127.0.0.1 www.costco.ca
