@@ -26,6 +26,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.google.ca
 127.0.0.1 www.costco.ca
 127.0.0.1 www.microsoft.com
+127.0.0.1 outlook.live.com
 127.0.0.1 github.com
 127.0.0.1 www.linkedin.com
 127.0.0.1 www.skype.com
@@ -79,3 +80,18 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.beatsbydre.com
 127.0.0.1 www.globalstar.com
 127.0.0.1 www.reddit.com
+127.0.0.1 www.wikipedia.org
+127.0.0.1 chatgpt.com
+127.0.0.1 ca.yahoo.com
+127.0.0.1 www.netflix.com
+127.0.0.1 www.bing.com
+127.0.0.1 ca.pinterest.com
+127.0.0.1 ca.yahoo.com
+127.0.0.1 www.fandom.com
+127.0.0.1 duckduckgo.com
+127.0.0.1 weather.com
+127.0.0.1 fr.quora.com
+127.0.0.1 www.temu.com
+127.0.0.1 www.cnn.com
+127.0.0.1 www.zoom.com
+127.0.0.1 www.ebay.ca
