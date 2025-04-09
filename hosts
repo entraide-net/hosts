@@ -6,7 +6,7 @@
 # Linux – “/etc/hosts”
 # Rooted Android devices - Edit /system/etc/hosts *Check how online*
 
-# Unban by putting a # in front of the line
+# Unban websites by putting a # in front of the line
 
 #<localhost>
 127.0.0.1	localhost
