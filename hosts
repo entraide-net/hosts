@@ -1,6 +1,7 @@
 # Windows – “C:\Windows\System32\drivers\etc\hosts”
 # Mac OS X – “/private/etc/hosts”
 # Linux – “/etc/hosts”
+# Rooted Android devices - Edit /system/etc/hosts *Check how online*
 
 # Unban by putting a # in front of the line
 
